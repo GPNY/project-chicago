@@ -17,6 +17,7 @@ Open source roblox script hub ! (and also free 🔥)
 - Blox Fruits (?)
 - Brookhaven
 - Work at a Pizza Place
+- Arm Wrestle Simulator
 
 ## Executor support:
 Solara
