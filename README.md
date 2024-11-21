@@ -11,13 +11,12 @@ Open source roblox script hub ! (and also free 🔥)
 
 
 ## Supported games:
-- Doors [Lobby, Backdoor, Hotel, Rooms and The Mines]
+- Doors [Lobby, Backdoor, Hotel, Rooms and The Mines] (broken, will work on it at a later date)
 - Prison Life
 - Jail Break
 - Blox Fruits (?)
 - Brookhaven
 - Work at a Pizza Place
-- Arm Wrestle Simulator
 
 ## Executor support:
 Solara
